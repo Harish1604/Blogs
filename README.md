@@ -25,7 +25,7 @@ Here you'll find deep dives, hackathon stories, and devlogs about the systems I�
 - Real-time inventory tracking via IMX-500 sensor + Raspberry Pi  
 - Anomaly detection with edge ML  
 - Cross-platform ERP via Electron  
-📄 [Read Blog](./smartchainerp.md)
+📄 [Read Blog](./Sony-Aitrios_Hackathon_Final.md)
 
 ---
 
