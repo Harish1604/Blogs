@@ -14,7 +14,7 @@ Here you'll find deep dives, hackathon stories, and devlogs about the systems I�
 - IPFS CID generation
 - Streamlit UI for uploads and previews  
 - Built for secure, duplicate-free cloud storage  
-📄 [Read Blog](./blogs/deduvault.md)
+📄 [Read Blog](./Blogs/deduvault.md)
 
 ---
 
@@ -25,7 +25,7 @@ Here you'll find deep dives, hackathon stories, and devlogs about the systems I�
 - Real-time inventory tracking via IMX-500 sensor + Raspberry Pi  
 - Anomaly detection with edge ML  
 - Cross-platform ERP via Electron  
-📄 [Read Blog](./blogs/smartchainerp.md)
+📄 [Read Blog](./Blogs/smartchainerp.md)
 
 ---
 
@@ -35,5 +35,5 @@ Here you'll find deep dives, hackathon stories, and devlogs about the systems I�
 - Edge vs Cloud vs Chain  
 - What we get wrong about storage today  
 - Philosophy behind modern cloud tooling  
-📄 [Read Blog](./blogs/cloud-rant.md)
+📄 [Read Blog](./Blogs/cloud-rant.md)
 
