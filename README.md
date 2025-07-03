@@ -14,7 +14,7 @@ Here you'll find deep dives, hackathon stories, and devlogs about the systems I�
 - IPFS CID generation
 - Streamlit UI for uploads and previews  
 - Built for secure, duplicate-free cloud storage  
-📄 [Read Blog](./Blogs/deduvault.md)
+📄 [Read Blog](./deduvault.md)
 
 ---
 
